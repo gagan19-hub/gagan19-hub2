@@ -1,4 +1,4 @@
-[![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colourbox.com%2Fvector%2Fline-programming-skills-icons-circle-vector-23310866&psig=AOvVaw2TJ8C9iKmZhRxdEfjJWjGa&ust=1741280631440000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjcjYG284sDFQAAAAAdAAAAABAg]
+
 <h1 align="center">Hi 👋, I'm GAGAN CHODIPALLI</h1>
 <h3 align="center">A java stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"
