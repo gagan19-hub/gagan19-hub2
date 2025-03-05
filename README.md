@@ -1,4 +1,4 @@
-
+[![Masterhead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)] 
 <h1 align="center">Hi 👋, I'm GAGAN CHODIPALLI</h1>
 <h3 align="center">A java stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"
